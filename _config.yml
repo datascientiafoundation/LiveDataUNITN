@@ -1,8 +1,8 @@
-title: JKAN
-greeting: DataScientia Catalog Template 
-description: This is a template, provided by DataScientia Foundation, for the creation of a Data Catalog to be part of the DataScientia community.
-baseurl: /jkan
-logo: /img/LTemplate-noBG.png
+title: LiveDataUNITN
+greeting: LiveDataUNITN Catalog 
+description: The University of Trento (Italy) presents its data catalog as part of the DataScientia data distribution network. 
+baseurl: /LiveDataUNITN
+logo: /img/LD-UNITN.png
 
 # Site theme
 jkan_theme: Default

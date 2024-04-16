@@ -1,0 +1,16 @@
+- name: Language
+  logo: /img/resources/language.png
+  logo_credit: Simone Bocca
+  featured: true
+- name: Knowledge
+  logo: /img/resources/knowledge.png
+  logo_credit: Simone Bocca
+  featured: true
+- name: Dataset
+  logo: /img/resources/dataset.png
+  logo_credit: Simone Bocca
+  featured: true
+- name: Graph
+  logo: /img/resources/kg.png
+  logo_credit: Simone Bocca
+  featured: true

@@ -12,7 +12,7 @@ layout: default
     <p><a class="btn btn-primary btn-lg" href="{{ site.baseurl }}/datasets" role="button">Browse All</a></p>
   </div>
   <div class="col-md-4 catalog-logo">
-    <img class="inner-logo" src="{{site.baseurl}}{{site.logo}}">
+    <img class="inner-logo" src="./img/num.png">
   </div>
   
 </div>
@@ -31,6 +31,22 @@ layout: default
   {% endif %}
 {% endfor %}
 </div>
+
+<h3>Browse by Resource Type</h3>
+<div class="homepage-categories">
+{% for type in site.data.resources %}
+  {% if type.featured == true %}
+    {% capture logo_alt %}{{ type.name }}{% if type.logo_credit and type.logo_credit != empty %} logo by {{ type.logo_credit }}{% endif %}{% endcapture %}
+    <a href="{{ site.baseurl }}/datasets/?type={{ type.name | slugify }}" class="thumbnail" title="{{ logo_alt }}">
+      {% if type.logo and type.logo != empty %}
+        <img src="{{ site.baseurl }}{{ type.logo }}" alt="{{ logo_alt }}">
+      {% endif %}
+      {{ type.name }}
+    </a>
+  {% endif %}
+{% endfor %}
+</div>
+
 
 <h3 id="services">Services</h3>
 <div class="homepage-categories">
