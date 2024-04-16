@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Research papers UNITN
+title: Research papers
 organization: University of Trento
 notes: <span style='color:salmon'>Dataset</span> - This is a set of cleaned and formatted datasets, created by the University of Trento (UNITN), that includes information about the research papers published by UNITN research staff. A different dataset is provided for each pubblication year, starting from 2016 to 2023.
 resources:
