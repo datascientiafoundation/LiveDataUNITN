@@ -6,7 +6,7 @@ notes: <span style='color:salmon'>Dataset</span> - This is a cleaned and formatt
 resources:
   - name: University organizations UNITN
     url: >-
-      https://raw.githubusercontent.com/datascientiafoundation/LiveDataUNITN-Repository/main/SREP/Data%20Resources/DU-UNITN-organizations.json?token=GHSAT0AAAAAACODWA6QZOKF5RRCNUIYCQXGZQ6HOPQ
+      https://raw.githubusercontent.com/datascientiafoundation/LiveDataUNITN-DREP/main/Data%20Resources/DU-UNITN-organizations.json
     format: json
 license: 'https://creativecommons.org/licenses/by-sa/4.0/'
 category:

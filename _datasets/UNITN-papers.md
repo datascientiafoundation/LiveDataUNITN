@@ -6,42 +6,42 @@ notes: <span style='color:salmon'>Dataset</span> - This is a set of cleaned and 
 resources:
   - name: Research papers 2016
     url: >-
-      https://raw.githubusercontent.com/datascientiafoundation/LiveDataUNITN-Repository/main/SREP/Data%20Resources/DU-UNITN-mindprod-2016.json?token=GHSAT0AAAAAACODWA6QEEZVB3DMX674ZE3WZQ6G6RA
+      https://raw.githubusercontent.com/datascientiafoundation/LiveDataUNITN-DREP/main/Data%20Resources/DU-UNITN-mindprod-2016.json
     format: json
     size: '4.7 MB'
   - name: Research papers 2017
     url: >-
-      https://raw.githubusercontent.com/datascientiafoundation/LiveDataUNITN-Repository/main/SREP/Data%20Resources/DU-UNITN-mindprod-2017.json?token=GHSAT0AAAAAACODWA6RKQKVCD4L4ZLB6FHSZQ6G7FQ
+      https://raw.githubusercontent.com/datascientiafoundation/LiveDataUNITN-DREP/main/Data%20Resources/DU-UNITN-mindprod-2017.json
     format: json
     size: '5.1 MB'
   - name: Research papers 2018
     url: >-
-      https://raw.githubusercontent.com/datascientiafoundation/LiveDataUNITN-Repository/main/SREP/Data%20Resources/DU-UNITN-mindprod-2018.json?token=GHSAT0AAAAAACODWA6QM6PI52IHEYJILZMSZQ6G7NQ
+      https://raw.githubusercontent.com/datascientiafoundation/LiveDataUNITN-DREP/main/Data%20Resources/DU-UNITN-mindprod-2018.json
     format: json
     size: '4.9 MB'
   - name: Research papers 2019
     url: >-
-      https://raw.githubusercontent.com/datascientiafoundation/LiveDataUNITN-Repository/main/SREP/Data%20Resources/DU-UNITN-mindprod-2019.json?token=GHSAT0AAAAAACODWA6R6RGWW6XPNRHX4MKIZQ6G7YA
+      https://raw.githubusercontent.com/datascientiafoundation/LiveDataUNITN-DREP/main/Data%20Resources/DU-UNITN-mindprod-2019.json
     format: json
     size: '5.4 MB'
   - name: Research papers 2020
     url: >-
-      https://raw.githubusercontent.com/datascientiafoundation/LiveDataUNITN-Repository/main/SREP/Data%20Resources/DU-UNITN-mindprod-2020.json?token=GHSAT0AAAAAACODWA6R2OJTBH5ALLZD6RCKZQ6HAAA
+      https://raw.githubusercontent.com/datascientiafoundation/LiveDataUNITN-DREP/main/Data%20Resources/DU-UNITN-mindprod-2020.json
     format: json
     size: '5.3 MB'
   - name: Research papers 2021
     url: >-
-      https://raw.githubusercontent.com/datascientiafoundation/LiveDataUNITN-Repository/main/SREP/Data%20Resources/DU-UNITN-mindprod-2021.json?token=GHSAT0AAAAAACODWA6QITQ6KD7YZ6BUQ2WSZQ6HAJQ
+      https://raw.githubusercontent.com/datascientiafoundation/LiveDataUNITN-DREP/main/Data%20Resources/DU-UNITN-mindprod-2021.json
     format: json
     size: '5.7 MB'
   - name: Research papers 2022
     url: >-
-      https://raw.githubusercontent.com/datascientiafoundation/LiveDataUNITN-Repository/main/SREP/Data%20Resources/DU-UNITN-mindprod-2022.json?token=GHSAT0AAAAAACODWA6RUSARDMZ2PJNM3WZSZQ6HARQ
+      https://raw.githubusercontent.com/datascientiafoundation/LiveDataUNITN-DREP/main/Data%20Resources/DU-UNITN-mindprod-2022.json
     format: json
     size: '5.5 MB'
   - name: Research papers 2023
     url: >-
-      https://raw.githubusercontent.com/datascientiafoundation/LiveDataUNITN-Repository/main/SREP/Data%20Resources/DU-UNITN-mindprod-2023.json?token=GHSAT0AAAAAACODWA6RW7SS6FOZTFL4VXQGZQ6HBHA
+      https://raw.githubusercontent.com/datascientiafoundation/LiveDataUNITN-DREP/main/Data%20Resources/DU-UNITN-mindprod-2023.json
     format: json
     size: '4.5 MB'
 license: 'https://creativecommons.org/licenses/by-sa/4.0/'
