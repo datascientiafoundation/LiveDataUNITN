@@ -120,6 +120,9 @@ resource_fields:
       - shp
       - xml
       - zip
+  - field_name: size
+    label: Size
+    datajson: distribution.size
 
 organization_fields:
   - field_name: title
