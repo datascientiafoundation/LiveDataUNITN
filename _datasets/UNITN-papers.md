@@ -48,7 +48,7 @@ license: 'https://creativecommons.org/licenses/by-sa/4.0/'
 category:
   - Digital University
 type:
-  - Dataset
+  - Data Source
 maintainer: Simone Bocca
 maintainer_email: simone.boccag@unitn.it
 creator: Vincenzo Maltese
@@ -59,7 +59,6 @@ validator: Simone Bocca
 keyword: 'paper, research'
 domain: University of Trento
 language: Italian
-issue_datetime: unknown
 modification_datetime: '15/04/2024'
 generating_activity: DataScientia LiveData UNITN Catalog Publication
 ---

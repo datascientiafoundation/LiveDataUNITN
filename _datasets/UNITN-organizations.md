@@ -8,11 +8,12 @@ resources:
     url: >-
       https://raw.githubusercontent.com/datascientiafoundation/LiveDataUNITN-DREP/main/Data%20Resources/DU-UNITN-organizations.json
     format: json
+    size: '244.4 KB'
 license: 'https://creativecommons.org/licenses/by-sa/4.0/'
 category:
   - Digital University
 type:
-  - Dataset
+  - Data Source
 maintainer: Simone Bocca
 maintainer_email: simone.boccag@unitn.it
 creator: Vincenzo Maltese
@@ -23,8 +24,6 @@ validator: Simone Bocca
 keyword: 'organization, university'
 domain: University of Trento
 language: Italian
-issue_datetime: unknown
 modification_datetime: '15/04/2024'
 generating_activity: DataScientia LiveData UNITN Catalog Publication
-size: '244.4 KB'
 ---

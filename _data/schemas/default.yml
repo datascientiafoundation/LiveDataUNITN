@@ -54,27 +54,6 @@ dataset_fields:
   - field_name: language
     label: Language
     datajson: language
-  - field_name: issue_datetime
-    label: Issue Date Time
-    datajson: issue_datetime
-  - field_name: modification_datetime
-    label: Modification Date Time
-    datajson: modification_datetime
-  - field_name: reference_lightweight_ontology
-    label: Reference Lightweight Ontology
-    datajson: reference_lightweight_ontology
-  - field_name: reference_ontology
-    label: Reference Ontology
-    datajson: reference_ontology
-  - field_name: reference_original_dataset
-    label: Reference Original Dataset
-    datajson: reference_original_dataset
-  - field_name: reference_teleontology
-    label: Reference Teleontology
-    datajson: reference_teleontology
-  - field_name: reference_domain_language
-    label: Reference Domain Language
-    datajson: reference_domain_language
   - field_name: min_longitude
     label: Min Longitude
     datajson: min_longitude
@@ -93,9 +72,10 @@ dataset_fields:
   - field_name: generating_activity
     label: Generating Activity
     datajson: generating_activity
-  - field_name: size
-    label: Size
-    datajson: size
+  - field_name: modification_datetime
+    label: Modification Date Time
+    datajson: modification_datetime
+
 
 resource_fields:
   - field_name: name
@@ -120,9 +100,22 @@ resource_fields:
       - shp
       - xml
       - zip
+  - field_name: reference_ontology
+    label: Reference Ontology
+    datajson: distribution.reference_ontology
+  - field_name: reference_original_dataset
+    label: Reference Original Dataset
+    datajson: distribution.reference_original_dataset
+  - field_name: reference_domain_language
+    label: Reference Domain Language
+    datajson: distribution.reference_domain_language
   - field_name: size
     label: Size
     datajson: distribution.size
+  - field_name: issue_datetime
+    label: Issue Date Time
+    datajson: issue_datetime
+  
 
 organization_fields:
   - field_name: title
