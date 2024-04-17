@@ -18,7 +18,7 @@ schema: default
 navigation:
   - title: About Us
     url: http://datascientia.disi.unitn.it/
-  - title: Datasets
+  - title: Resources
     url: /datasets/
   - title: Organizations
     url: /organizations/

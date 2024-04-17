@@ -2,7 +2,7 @@
 schema: default
 title: University courses
 organization: University of Trento
-notes: <span style='color:salmon'>Dataset</span> - This is a cleaned and formatted dataset, created by the University of Trento (UNITN), that includes information about the UNITN educational courses.
+notes: <span style='color:salmon'>Data Source</span> - This is a cleaned and formatted dataset, created by the University of Trento (UNITN), that includes information about the UNITN educational courses.
 resources:
   - name: University courses UNITN
     url: >-
