@@ -1,6 +1,6 @@
 ---
 schema: default
-title: University organizations
+title: Organizations
 organization: University of Trento
 notes: <span style='color:salmon'>Data Source</span> - This is a cleaned and formatted dataset, created by the University of Trento (UNITN), that includes information about the UNITN interanl organizations.
 resources:
