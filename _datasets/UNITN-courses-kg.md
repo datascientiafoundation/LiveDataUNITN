@@ -8,9 +8,9 @@ resources:
     url: >-
       https://raw.githubusercontent.com/datascientiafoundation/LiveDataUNITN-DREP/main/Data%20Resources/KGs/DU-UNITN-courses-kg.ttl
     format: RDF-TTL
-    reference_ontology: <a style=text-decoration:underline href="">TODO</a>
+    reference_ontology: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataUNITN/datasets/DU-UNITN-ontology/">DU Ontology UNITN</a>
     reference_original_dataset: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataUNITN/datasets/UNITN-courses/">Courses</a>
-    reference_domain_language: <a style=text-decoration:underline href="">TODO</a>
+    rreference_domain_language: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataUNITN/datasets/DU-UNITN-language/">DU Concepts UNITN</a>
 
     size: '2.1 MB'
 license: 'https://creativecommons.org/licenses/by-sa/4.0/'

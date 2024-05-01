@@ -23,7 +23,7 @@ creator_email: 'simone.bocca@unitn.it'
 publisher: DataScientia Foundation
 owner: University of Trento
 validator: Simone Bocca
-keyword: 'words, concepts, university'
+keyword: 'schema, ontology, university'
 domain: University of Trento
 language: English, Italian
 generating_activity: DataScientia LiveData UNITN Catalog Publication

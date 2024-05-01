@@ -8,9 +8,9 @@ resources:
     url: >-
       https://raw.githubusercontent.com/datascientiafoundation/LiveDataUNITN-DREP/main/Data%20Resources/KGs/DU-UNITN-staff-kg.ttl
     format: RDF-TTL
-    reference_ontology: <a style=text-decoration:underline href="">TODO</a>
+    reference_ontology: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataUNITN/datasets/DU-UNITN-ontology/">DU Ontology UNITN</a>
     reference_original_dataset: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataUNITN/datasets/UNITN-people/">Staff</a>
-    reference_domain_language: <a style=text-decoration:underline href="">TODO</a>
+    reference_domain_language: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataUNITN/datasets/DU-UNITN-language/">DU Concepts UNITN</a>
 
     size: '2.5 MB'
 license: 'https://creativecommons.org/licenses/by-sa/4.0/'
