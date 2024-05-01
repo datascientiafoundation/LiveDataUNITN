@@ -4,7 +4,7 @@ title: Staff
 organization: University of Trento
 notes: <span style='color:salmon'>Data Source</span> - This is a cleaned and formatted dataset, created by the University of Trento (UNITN), that includes information about the UNITN staff.
 resources:
-  - name: University staff UNITN
+  - name: Staff
     url: >-
       https://raw.githubusercontent.com/datascientiafoundation/LiveDataUNITN-DREP/main/Data%20Resources/DU-UNITN-people.json
     format: json
@@ -15,7 +15,7 @@ category:
 type:
   - Data Source
 maintainer: Simone Bocca
-maintainer_email: simone.boccag@unitn.it
+maintainer_email: simone.bocca@unitn.it
 creator: Vincenzo Maltese
 creator_email: 'vincenzo.maltese@unitn.it '
 publisher: DataScientia Foundation

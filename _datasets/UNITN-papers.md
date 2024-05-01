@@ -50,7 +50,7 @@ category:
 type:
   - Data Source
 maintainer: Simone Bocca
-maintainer_email: simone.boccag@unitn.it
+maintainer_email: simone.bocca@unitn.it
 creator: Vincenzo Maltese
 creator_email: 'vincenzo.maltese@unitn.it '
 publisher: DataScientia Foundation
