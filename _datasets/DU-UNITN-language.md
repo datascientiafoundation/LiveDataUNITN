@@ -6,9 +6,9 @@ notes: <span style='color:BlueViolet'>Language</span> - This is a language datas
 resources:
   - name: UNITN Digital University Concepts
     url: >-
-      TODO
+      https://github.com/datascientiafoundation/LiveDataUNITN-DREP/blob/main/Language%20Resources/DU-UNITN%20Language.csv
     format: csv
-    size: '-- KB'
+    size: '6.4 KB'
 license: 'https://creativecommons.org/licenses/by-sa/4.0/'
 category:
   - Digital University
