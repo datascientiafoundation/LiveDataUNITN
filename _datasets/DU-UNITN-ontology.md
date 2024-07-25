@@ -10,7 +10,7 @@ resources:
     format: owl
     reference_domain_language: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataUNITN/datasets/DU-UNITN-language/">Digital University Concepts</a>
     size: '66.4 KB'
-license: 'https://creativecommons.org/licenses/by-nc-sa/4.0/'
+license: 'https://creativecommons.org/licenses/by-sa/4.0/'
 category:
   - Digital University
 type:
